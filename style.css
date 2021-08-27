@@ -1,10 +1,15 @@
 .BigCard {
     height: 500px;
-    width: 100% !important;
-    
+    margin-top: -600px;
+    text-align: center;
     }
     
-    .words {
-        width: 50%;
-        margin-top: 40px;
-    }
+.words {
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.card{
+    flex-direction: column
+}
