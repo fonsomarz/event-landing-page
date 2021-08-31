@@ -1,15 +1,5 @@
-.BigCard {
-    height: 500px;
-    margin-top: -600px;
-    text-align: center;
-    }
+#jumbotron{
+    background-image: url(https://images.unsplash.com/photo-1521334726092-b509a19597c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1677&q=80);
     
-.words {
-    text-align: center;
-    margin-top: 40px;
-
-}
-
-.card{
-    flex-direction: column
+    background-size: cover;
 }
